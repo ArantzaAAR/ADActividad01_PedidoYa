@@ -1,0 +1,13 @@
+Id, Nombre, Email
+1, Juan Morote,juan@gmail.com
+2, Margarita Romero,marga@gmail.com
+3, Lucía Adiario,lucia@gmail.com
+4, Lara Mirez,lara@gmail.com
+Id, IdCliente, Producto, Cantidad
+243, 1, Camiseta, 2
+244, 3, Pantalón, 1
+245, 2, Jersey, 3
+246, 1, Bermudas, 3
+247, 4, Camisa, 2
+248, 2, Falda, 1
+249, 1, Pantalón, 1
